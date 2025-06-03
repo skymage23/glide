@@ -1,0 +1,18 @@
+[submodule "glide-compositor"]
+	path = glide-compositor
+	url = https://github.com/skymage23/glide-compositor
+[submodule "glide-compositor-vulkan"]
+	path = glide-compositor-vulkan
+	url = https://github.com/skymage23/glide-compositor-vulkan
+[submodule "libglide"]
+	path = libglide
+	url = https://github.com/skymage23/libglide
+[submodule "libglide-vulkan"]
+	path = libglide-vulkan
+	url = https://github.com/skymage23/libglide-vulkan
+[submodule "glide-plugin-python"]
+	path = glide-plugin-python
+	url = https://github.com/skymage23/glide-plugin-python
+[submodule "glide-remote"]
+	path = glide-remote
+	url = https://github.com/skymage23/glide-remote
